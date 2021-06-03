@@ -88,11 +88,11 @@ params:
         icon: facebook
         icon_position: center
         new_window: true
-      - label: Twitter
-        url: 'https://twitter.com/'
+      - label: Instagram
+        url: 'https://instagram.com/drivehash'
         style: link
         has_icon: true
-        icon: twitter
+        icon: instagram
         icon_position: center
         new_window: true
       - label: Twitter
