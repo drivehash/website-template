@@ -339,7 +339,7 @@ seo:
       value: Comparte y descarga archivos descentralizados peer-to-peer.
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/cover.png
+      value: images/cover.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
