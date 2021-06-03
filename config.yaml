@@ -124,6 +124,7 @@ params:
       href="https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
   domain: 'https://website-template-823ee.netlify.app'
+  favicon: images/favicon.png
 taxonomies:
   stub: stub
 disableKinds:
