@@ -3,7 +3,7 @@ baseURL: /
 params:
   layout_type: full-width
   style: classic
-  palette: green
+  palette: black
   mode: light
   base_font: serif
   header:
@@ -117,8 +117,7 @@ params:
         icon: vimeo
         icon_position: center
         new_window: true
-    content: >-
-      DRIVEHASH. ALL RIGHTS RESERVED.
+    content: DRIVEHASH. ALL RIGHTS RESERVED.
   domain: 'https://website-template-823ee.netlify.app'
   favicon: images/favicon.png
 taxonomies:
