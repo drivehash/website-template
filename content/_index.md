@@ -327,7 +327,7 @@ sections:
     background_color: secondary
 seo:
   title: 'Drivehash: Decentralized files'
-  description: The preview of the DIY theme
+  description: Comparte y descarga archivos descentralizados peer-to-peer.
   extra:
     - name: 'og:type'
       value: website
