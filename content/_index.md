@@ -336,7 +336,7 @@ seo:
       value: 'Drivehash: Decentralized files'
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Comparte y descarga archivos descentralizados peer-to-peer.
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
