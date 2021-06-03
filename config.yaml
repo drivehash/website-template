@@ -110,7 +110,7 @@ params:
         icon_position: center
         new_window: true
       - label: LinkedIn
-        url: 'https://es.linkedin.com/company/drivehash'
+        url: 'https://xn.linkedin.com/company/drivehash'
         style: link
         has_icon: true
         icon: linkedin
