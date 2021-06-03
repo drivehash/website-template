@@ -347,7 +347,7 @@ seo:
     - name: 'twitter:title'
       value: 'Drivehash: Decentralized files'
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Comparte y descarga archivos descentralizados peer-to-peer.
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
